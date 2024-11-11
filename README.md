@@ -1,4 +1,4 @@
-## sbt project compiled with Scala 3
+## Test SBT With Scala 3
 
 ### Usage
 
